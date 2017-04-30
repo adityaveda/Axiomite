@@ -1,0 +1,44 @@
+a {
+  color: #00B7FF;
+}
+
+.hoverTable{
+width:100%;
+    border-collapse:collapse;
+
+}
+.hoverTable td{
+padding:20px;
+}
+/* Define the default color for all the table rows */
+.hoverTable tr{
+background: white;
+}
+/* Define the hover highlight color for the table row */
+.hoverTable tr:hover {
+      background-color: #fed136;
+
+}
+#input:hover
+{
+  cursor:pointer;
+color: blue;
+}
+
+#file{
+  border: 0px;
+
+}
+
+#hr{
+  border-color: black;
+}
+#inner
+{
+  width: 50%;
+    margin: 0 auto; 
+}
+
+.panel-title {display: inline;font-weight: bold;}		
+.checkbox.pull-right { margin: 0; }		
+.pl-ziro { padding-left: 0px; }		
